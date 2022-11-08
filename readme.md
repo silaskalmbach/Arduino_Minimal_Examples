@@ -22,7 +22,7 @@ Collection on Arduino-Scrips for the Seminar and Design-Studio ILEKlab1244.
 - Temperature -> LED
 
 ## Interface Computer - Microcontroller
-- Firmata (http://firmata.org/wiki/Main_Page)
+- Firmata - Remote Control your Arduino (http://firmata.org/wiki/Main_Page, https://realpython.com/arduino-python/)
 - Arduino Serial connection with JSON
 
 ## further information:
