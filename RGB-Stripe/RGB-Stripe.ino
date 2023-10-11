@@ -21,10 +21,13 @@ void setup()
 
 void loop()
 {
+ 
+ 
   setColor();
   for(int i=0;i<NUMPIXELS;i++){
 //    pixels.setPixelColor(i, pixels.Color(redColor, greenColor, blueColor));
-    pixels.setPixelColor(i, pixels.Color(random(0, 255), random(0, 255), random(0, 255)));
+   pixels.setPixelColor(i, pixels.Color(0,20,0));
+    // pixels.setPixelColor(i, pixels.Color(random(0, 255), random(0, 255), random(0, 255)));
   }  
   pixels.show();
   delay(100); // Wait for 1000 millisecond(s)
