@@ -2,8 +2,13 @@
 Collection on Arduino-Scrips for the Seminar and Design-Studio ILEKlab1244.
 
 ## Software:
-- https://www.tinkercad.com/login
-- https://www.arduino.cc/en/software
+- Simulation: https://www.tinkercad.com/login
+- Programming Microcontroller: https://www.arduino.cc/en/software
+- Programming Microcontroller with VSC: https://platformio.org/
+
+### Recommendation for 3D-Printers at the ILEK
+- Prusa i3 MK3S+: https://www.prusa3d.de/prusaslicer/
+- Raise 3D Pro2: https://www.ideamaker.io/download.html 
 
 ## Sensors:
 - BME280 - Temperature, Humidity, Pressure (https://lastminuteengineers.com/bme280-arduino-tutorial/)
@@ -22,7 +27,7 @@ Collection on Arduino-Scrips for the Seminar and Design-Studio ILEKlab1244.
 - Temperature -> LED
 
 ## Interface Computer - Microcontroller
-- Firmata (http://firmata.org/wiki/Main_Page)
+- Firmata - Remote Control your Arduino (http://firmata.org/wiki/Main_Page, https://realpython.com/arduino-python/)
 - Arduino Serial connection with JSON
 
 ## further information:
